@@ -1,0 +1,23 @@
+.top-input-container {
+    margin-top: 0 !important;
+    padding: 10px;
+    background-color: #576069;
+    color: white;
+    border-radius: 6px;
+}
+
+.top-input label {
+    font-size: 0.875rem;
+    margin-bottom: 2px;
+}
+
+.top-input input,
+.top-input select {
+    font-size: 0.875rem;
+    background-color: white;
+    color: black;
+}
+
+.top-input .form-check-label {
+    font-size: 0.875rem;
+}
