@@ -99,10 +99,6 @@ Make your changes
 Submit a Pull Request
 
 
-📄 License
-This project is open source and licensed under the MIT License.
-
-
 🙋‍♀️ Developer
 Selin Beyaz
 GitHub: @SelinBeyazzz
@@ -208,9 +204,6 @@ Değişikliklerinizi yapın
 
 Pull Request gönderin
 
-
-📄 Lisans
-Bu proje açık kaynaklıdır ve MIT Lisansı ile lisanslanmıştır.
 
 
 🙋‍♀️ Geliştirici
